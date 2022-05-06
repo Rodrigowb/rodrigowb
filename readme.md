@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <p>Hey there 👋</p>
-  <p>I'm Rodrigo... happy to connect with you 🤝</p>
+  <h1>Hey there 👋</h1>
+  <h2>I'm Rodrigo... happy to connect with you 🤝</h2>
   <img height="200px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 </div>
 <div id="social-icons" align="center">

@@ -41,8 +41,8 @@
     <li>📩 boaventurarodrigo@yahoo.com.br</li>
   </ul>
 </div>
-<div id="stats">
+<!-- <div id="stats">
   <h2>My stats ✅</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigowb">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigowb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats">
-</div>
+</div> -->
